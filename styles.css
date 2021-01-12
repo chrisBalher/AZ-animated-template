@@ -1,0 +1,29 @@
+@media (max-width:1024px){
+    .nave{
+        display: none;
+    }
+    .nave1{
+        position: absolute;
+        top: 45px;
+        right: 5%;
+        background-color: rgb(255, 255, 255, 0.9);
+        border-radius: 5px;
+    }
+}
+#fondo{
+    background-position: 50px 1050px;
+}
+.obras-titulo{
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    margin: auto auto auto 30%;
+}
+.obras-titulo h3{
+    padding-left: 30px;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    
+}
